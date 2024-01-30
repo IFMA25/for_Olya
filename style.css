@@ -42,3 +42,24 @@ h3{
 .img{
     text-align: center;
 }
+.link{
+    text-decoration: none;
+    color: #444;
+    font-size: 28px;
+}
+
+.link:hover{
+    color: red;
+    text-decoration: underline;
+}
+li{
+    margin-bottom: 30px;
+    background: url(./img/1378418749.svg) no-repeat;
+    background-size: 20px 20px;
+    padding-left: 40px;
+    background-position: left center;
+}
+ul{
+    padding-top: 30px;
+    list-style: none;
+}
